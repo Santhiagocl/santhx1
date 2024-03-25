@@ -16,16 +16,16 @@ Olá Me chamo Santhiago
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![boot](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo&logo=javascript&logoColor=black)
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo&logo=typescript&logoColor=white)
+![boot](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo&logo=bootstrap&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo&logo=amazon-aws&logoColor=white)
 
 **DevOps**
 
@@ -40,9 +40,6 @@ Olá Me chamo Santhiago
 <br/>
 
 ### ⚙️ GitHub Analytics
-<a href="https://github.com/santhx1" title="Perfil do Santhiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhx1&theme=dracula&show_icons=true" />
-</a>
 
 <table>
   <tr>
@@ -73,4 +70,4 @@ Olá Me chamo Santhiago
 
 ## Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im.santhiago/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo&logo=instagram&logoColor=white)](https://www.instagram.com/im.santhiago/)
