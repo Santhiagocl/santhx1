@@ -44,7 +44,7 @@ Olá Me chamo Santhiago
   <tr>
     <td>
       <img
-        align="left"
+        align="right"
         src="https://github-readme-stats.vercel.app/api?username=santhx1&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
@@ -56,16 +56,7 @@ Olá Me chamo Santhiago
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=santhx1&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+   
 
 ## Onde me encontrar
 
