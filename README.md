@@ -60,6 +60,6 @@ Olá Me chamo Santhiago
 
 ## Onde me encontrar
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo&logo=instagram&logoColor=white)](https://www.instagram.com/im.santhiago/)
