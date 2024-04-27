@@ -16,14 +16,6 @@ Olá Me chamo Santhiago
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo&logo=javascript&logoColor=black)
-![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo&logo=typescript&logoColor=white)
-![boot](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo&logo=amazon-aws&logoColor=white)
 
 **DevOps**
